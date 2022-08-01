@@ -84,7 +84,7 @@ def clear():
 def back():
 	login()
 
-RAHAT="RAHAT-"
+TALHA="RAHAT-"
 imt="-Busra4786=="
 ak="Lover-"
 myid=uuid.uuid4().hex[:10].upper()
@@ -403,15 +403,15 @@ logo = ("""\033[1;32m
  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'   \033
 __________________×______________________
   
-  Owner   :  RAHAT Islam
+  Owner   :  Riaj Ahmed Rahat
  
   Github   :  Termux-RAHAT
 
-  Facebook : Termux Teacher RAHAT
+  Facebook : Riaj Ahmed Rahat
   
-  Youtube : RAHAT Technology Channel
+  Youtube : ××××××××××××
   
-  Contact : +8801304002896
+  Contact : +8801307536093
 __________________×______________________\033[1;37m""")
 
 class Main:
